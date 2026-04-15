@@ -1,8 +1,8 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Zakaria+Outghous;Frontend+Developer;Welcome+to+my+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi+I'm+Zakaria+Outghous;Developer+from+Morocco;Welcome+to+my+GitHub+Profile" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from Morocco 🇲🇦</h3>
+<h3 align="center">A Information applications developer from Morocco</h3>
 
 * 🌱 I’m currently learning **Développement des applications informatiques**
 * 👨‍💻 All of my projects are available here:
