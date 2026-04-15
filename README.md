@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria Outghous</h1>
-<h3 align="center">A passionate IT applications developer from Morocco </h3>
+<h3 align="center">A passionate applications developer from Morocco </h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
