@@ -32,25 +32,3 @@
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariaoutghous&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaoutghous&theme=tokyonight" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaoutghous&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=zakariaoutghous&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
