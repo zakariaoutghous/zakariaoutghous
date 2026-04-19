@@ -6,7 +6,7 @@
 
 * 🌱 I’m currently learning **Développement des applications informatiques**
 * 👨‍💻 All of my projects are available here:
-  👉 https://preview--future-port-spark.lovable.app/
+  👉 https://zakaria-outghous-portfolio.lovable.app/
 * 📫 How to reach me: **[zakariaotghous@gmail.com](mailto:zakariaotghous@gmail.com)**
 
 ---
@@ -26,5 +26,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,html,css,linux,postgres,python" />
+<img src="https://skillicons.dev/icons?i=c, ,html, ,css, ,linux, ,postgres, ,python" />
 </p>
