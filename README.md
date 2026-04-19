@@ -26,5 +26,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c, ,html, ,css, ,linux, ,postgres, ,python" />
+<img src="https://skillicons.dev/icons?i=c  ,html,css,linux,postgres,python" />
 </p>
