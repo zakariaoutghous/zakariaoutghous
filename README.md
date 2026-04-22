@@ -23,6 +23,9 @@
 - 💾 Video Downloader:  
 👉 https://github.com/zakariaoutghous/Video-Downloader/releases/download/v1.0/video_downloader.exe
 
+- </> CodeVault:  
+👉 https://codevault-za.lovable.app/
+
 ---
 
 ## 📫 Contact Me
